@@ -9,7 +9,7 @@
 
 #include "ScriptPCH.h"
 
-a
+
 
 enum SupporterActions{
 	SUPPORTER_ACTION_ADD_BUFF			= 1,
